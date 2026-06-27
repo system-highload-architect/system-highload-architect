@@ -16,6 +16,7 @@
 | **[Clearway Fintech Core](https://github.com/system-highload-architect/clearway-fintech-core)** | Распределённое финтех‑ядро операторского класса: иммутабельный Append‑Only Ledger, Lock‑Free лимитер TPS, безрефлексивный диспетчер команд | Go, PCI‑DSS, двойная запись, атомарные операции |
 | **[WebRTC Mesh Platform](https://github.com/system-highload-architect/webrtc-mesh-platform)** | Платформа видеоконференцсвязи (b2b) с разделением Control Plane, User Plane и Data Plane, предикативными T9‑сервисами и криптографической верификацией | Go, WebRTC, gRPC, NoSQL, PKI |
 | **[RTB Platform](https://github.com/system-highload-architect/rtb-platform)** | Real‑Time Bidding платформа: асинхронный аукцион, Radix Sort LSD, аналитика на ClickHouse, дашборд | Go, Kafka, Aerospike, PostgreSQL, React |
+| **[QoS Pipeline](https://github.com/system-highload-architect/qos-pipeline)** | Платформа наблюдаемости с конвейерной обработкой метрик, GraphQL API и мониторингом SLI/SLO/SLA | Go, Kafka, PostgreSQL, GraphQL, Docker |
 | **[go‑solutions](https://github.com/system-highload-architect/go-solutions)** | Библиотека переиспользуемых Go‑пакетов (математика, кэширование, сеть, безопасность, гео, оценка ставок) | Go, дженерики, zero‑allocation |
 | **[Preparing for the Interview](https://github.com/system-highload-architect/preparing-for-the-interview)** | Разбор задач и примеров для собеседований по System Design, распределённым системам, алгоритмам, безопасности и внутреннему устройству Go | Go, System Design, Distributed Systems, Algorithms |
 
